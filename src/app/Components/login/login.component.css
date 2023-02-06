@@ -1,0 +1,33 @@
+.body {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+  background-color: cadetblue;
+}
+
+
+
+
+.login {
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.login h1{
+    color:whitesmoke;
+    font-weight: bolder;
+}
+
+.customWidth{
+    width: 80%;
+}
+
+.button{
+    height:50px;
+}
+
+.snipper{
+    margin:0 auto;
+}
